@@ -12,14 +12,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-05-07T11:18:25.7752750+02:00
+  lastUpdatedAtString: 2018-05-07T11:19:39.3834950+02:00
   initializedAtString: 2018-05-07T11:12:00.9399570+02:00
   localBranches:
   - name: develop
-    tracking: '[None]'
+    tracking: origin/develop
   - name: master
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/develop
     tracking: '[None]'
-  remoteBranches: []
+  - name: origin/master
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/conkolas/virtualgameproject.git
@@ -35,18 +39,33 @@ MonoBehaviour:
     values:
     - name: develop
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/conkolas/virtualgameproject.git
+      trackingBranch: develop
     - name: master
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/conkolas/virtualgameproject.git
+      trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - develop
+      - master
+    subKeyValues:
+    - Values:
+      - name: develop
+        remote:
+          name: origin
+          url: https://github.com/conkolas/virtualgameproject.git
+        trackingBranch: 
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/conkolas/virtualgameproject.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
