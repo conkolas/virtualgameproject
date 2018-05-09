@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e207f06-a218-4834-b65d-617078d74c64" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/RoomA.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/RoomA.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/RoomB.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/RoomB.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/RoomC.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/RoomC.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Portal.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Portal.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Room.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Room.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/0/07f493597ee21ee79f767e98a7971627.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/1/16f5debb191bfccfa8a73b394be5b845.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/2/2d942f904b5e7abf11e99f91bf29928e.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/3/32fbd0b6dbe5a896a719250905c5d7f9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/7/774aa945cee6a0a8e6f2984f919504a0.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/9/9886c5a168a75d790fdd2a96f5490f10.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/9/9a444e0a2da28cfb664f0680497ebf9f.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/9/9a708f9c441fd21dd0f448cb6b86ae09.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/9/9d3f260cbddcaa8003feaa870fcb9131.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/9/9f4078b018e3693bfd8074314387d1e0.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/a/a941f98dd56dd97f4abe19ba871b38e3.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/b/b6a9784f6f44ea38e402d955145ce5ac.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/c/c5cda9192783b123bf3a4929a01c0b0c.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/d/d381df25beaa67f81cdb2c080ae1b59b.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/d/db3457dcee56cbde28fe65827a864718.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/e/e2ea80e306fa42d8bfa2bec6b4bb338e.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/f/f9baf5dfac6f276b9d356c75bb0af0b0.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/ShaderCache/f/f9de5568492d706129ac7cdaf5cf314b.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/metadata/82/82603c2cd3d2445d0b438b1b34b1c432" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/metadata/82/82603c2cd3d2445d0b438b1b34b1c432.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/metadata/86/8697f68714c9b49c295bc475c4a2c7fc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/metadata/86/8697f68714c9b49c295bc475c4a2c7fc.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/metadata/9a/9a77822391e9445c893b4cf6a3bd68de" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/metadata/9a/9a77822391e9445c893b4cf6a3bd68de.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/metadata/c3/c39e7e3c950664bd886d6c68490a9e4d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/metadata/c3/c39e7e3c950664bd886d6c68490a9e4d.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/metadata/c4/c42c05ded5a604e8d87eb105e6d64fe0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/metadata/c4/c42c05ded5a604e8d87eb105e6d64fe0.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Collab/CollabSnapshot_d849b308-28e1-4d77-812a-1f9ea582e7b6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Collab/CollabSnapshot_d849b308-28e1-4d77-812a-1f9ea582e7b6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptMapper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000003000000000000000" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000003000000000000000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/15/1555debe095dd43e4aa4918b91fc1750" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/15/1555debe095dd43e4aa4918b91fc1750" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/15/1555debe095dd43e4aa4918b91fc1750.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/15/1555debe095dd43e4aa4918b91fc1750.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PortalEntity.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Portal/PortalEntity.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="623">
+              <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+              <folding>
+                <marker date="1525847011551" expanded="false" signature="6:97" ph="..." />
+                <marker date="1525847011551" expanded="true" signature="141:3010" ph="{...}" />
+                <marker date="1525847011551" expanded="true" signature="574:604" ph="{...}" />
+                <marker date="1525847011551" expanded="true" signature="640:673" ph="{...}" />
+                <marker date="1525847011551" expanded="true" signature="700:735" ph="{...}" />
+                <marker date="1525847011551" expanded="true" signature="759:2445" ph="{...}" />
+                <marker date="1525847011551" expanded="true" signature="1373:1473" ph="{...}" />
+                <marker date="1525847011551" expanded="true" signature="1502:1571" ph="{...}" />
+                <marker date="1525847011551" expanded="true" signature="1603:1712" ph="{...}" />
+                <marker date="1525847011551" expanded="true" signature="1738:1850" ph="{...}" />
+                <marker date="1525847011551" expanded="true" signature="1882:1996" ph="{...}" />
+                <marker date="1525847011551" expanded="true" signature="2471:3008" ph="{...}" />
+                <marker date="1525847011551" expanded="true" signature="2546:3005" ph="{...}" />
+                <marker date="1525847011551" expanded="true" signature="2622:2676" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PortalTeleport.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Portal/PortalTeleport.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="580">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <marker date="1525846496165" expanded="true" signature="6:92" ph="..." />
+                <marker date="1525846496165" expanded="true" signature="138:1371" ph="{...}" />
+                <marker date="1525846496165" expanded="true" signature="469:499" ph="{...}" />
+                <marker date="1525846496165" expanded="true" signature="518:1139" ph="{...}" />
+                <marker date="1525846496165" expanded="true" signature="540:1136" ph="{...}" />
+                <marker date="1525846496165" expanded="true" signature="687:1132" ph="{...}" />
+                <marker date="1525846496165" expanded="true" signature="1186:1254" ph="{...}" />
+                <marker date="1525846496165" expanded="true" signature="1222:1251" ph="{...}" />
+                <marker date="1525846496165" expanded="true" signature="1300:1369" ph="{...}" />
+                <marker date="1525846496165" expanded="true" signature="1336:1366" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PortalCamera.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Portal/PortalCamera.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="23" column="75" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="75" />
+              <folding>
+                <marker date="1525857807608" expanded="false" signature="6:78" ph="..." />
+                <marker date="1525857807608" expanded="true" signature="122:1137" ph="{...}" />
+                <marker date="1525857807608" expanded="true" signature="436:482" ph="{...}" />
+                <marker date="1525857807608" expanded="true" signature="501:1135" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScreenCutout.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/ScreenCutout.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <folding>
+                <marker date="1525779187144" expanded="true" signature="28:949" ph="{...}" />
+                <marker date="1525779187144" expanded="true" signature="43:87" ph="{...}" />
+                <marker date="1525779187144" expanded="true" signature="100:947" ph="{...}" />
+                <marker date="1525779187144" expanded="true" signature="275:944" ph="{...}" />
+                <marker date="1525779187144" expanded="true" signature="289:935" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/ScreenCutout.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Portal/PortalTeleport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Portal/PortalEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Portal/PortalCamera.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Shaders/ScreenCutout.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Portal/PortalTeleport.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Portal/PortalEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Portal/PortalCamera.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Virtual Game Project (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Virtual Game Project (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Virtual Game Project (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Virtual Game Project (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Portal" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e207f06-a218-4834-b65d-617078d74c64" name="Default" comment="" />
+      <created>1525778400029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525778400029</updated>
+      <workItem from="1525778403338" duration="74000" />
+      <workItem from="1525778604435" duration="11365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11439000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" weight="0.32900944" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19791667" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="right" id="Structure" order="5" side_tool="true" visible="true" weight="0.16666667" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="bottom" id="Message" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="true" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/PortalEntity.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/ScreenCutout.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <marker date="1525779187144" expanded="true" signature="28:949" ph="{...}" />
+            <marker date="1525779187144" expanded="true" signature="43:87" ph="{...}" />
+            <marker date="1525779187144" expanded="true" signature="100:947" ph="{...}" />
+            <marker date="1525779187144" expanded="true" signature="275:944" ph="{...}" />
+            <marker date="1525779187144" expanded="true" signature="289:935" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Portal/PortalTeleport.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <marker date="1525846496165" expanded="true" signature="6:92" ph="..." />
+            <marker date="1525846496165" expanded="true" signature="138:1371" ph="{...}" />
+            <marker date="1525846496165" expanded="true" signature="469:499" ph="{...}" />
+            <marker date="1525846496165" expanded="true" signature="518:1139" ph="{...}" />
+            <marker date="1525846496165" expanded="true" signature="540:1136" ph="{...}" />
+            <marker date="1525846496165" expanded="true" signature="687:1132" ph="{...}" />
+            <marker date="1525846496165" expanded="true" signature="1186:1254" ph="{...}" />
+            <marker date="1525846496165" expanded="true" signature="1222:1251" ph="{...}" />
+            <marker date="1525846496165" expanded="true" signature="1300:1369" ph="{...}" />
+            <marker date="1525846496165" expanded="true" signature="1336:1366" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Portal/PortalEntity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+          <folding>
+            <marker date="1525847011551" expanded="false" signature="6:97" ph="..." />
+            <marker date="1525847011551" expanded="true" signature="141:3010" ph="{...}" />
+            <marker date="1525847011551" expanded="true" signature="574:604" ph="{...}" />
+            <marker date="1525847011551" expanded="true" signature="640:673" ph="{...}" />
+            <marker date="1525847011551" expanded="true" signature="700:735" ph="{...}" />
+            <marker date="1525847011551" expanded="true" signature="759:2445" ph="{...}" />
+            <marker date="1525847011551" expanded="true" signature="1373:1473" ph="{...}" />
+            <marker date="1525847011551" expanded="true" signature="1502:1571" ph="{...}" />
+            <marker date="1525847011551" expanded="true" signature="1603:1712" ph="{...}" />
+            <marker date="1525847011551" expanded="true" signature="1738:1850" ph="{...}" />
+            <marker date="1525847011551" expanded="true" signature="1882:1996" ph="{...}" />
+            <marker date="1525847011551" expanded="true" signature="2471:3008" ph="{...}" />
+            <marker date="1525847011551" expanded="true" signature="2546:3005" ph="{...}" />
+            <marker date="1525847011551" expanded="true" signature="2622:2676" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Portal/PortalCamera.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" column="75" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="75" />
+          <folding>
+            <marker date="1525857807608" expanded="false" signature="6:78" ph="..." />
+            <marker date="1525857807608" expanded="true" signature="122:1137" ph="{...}" />
+            <marker date="1525857807608" expanded="true" signature="436:482" ph="{...}" />
+            <marker date="1525857807608" expanded="true" signature="501:1135" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
